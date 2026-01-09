@@ -1,57 +1,47 @@
-# מרכז אוקסיג'ן — Generative Engine Optimization Map
-
-> A טיפול ובריאות נפש business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-c8b2f97d.zappy5.app
+https://example.com
 מרכז אוקסיג'ן נהריה מציע טיפול רגשי בנהריה עם 30 שנות ניסיון. הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי מקצועי.
 
 ### השירותים שלנו
-https://-c8b2f97d.zappy5.app/services
+https://example.com/services
 גלו את מגוון השירותים במרכז אוקסיג'ן נהריה: טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים, עיצוב התנהגותי לילדים ועוד.
 
 ### אודות
-https://-c8b2f97d.zappy5.app/about
+https://example.com/about
 הכירו את מרכז אוקסיג'ן נהריה - 30 שנות ניסיון בטיפול רגשי בנהריה, הדרכת הורים ועיצוב התנהגותי. הצוות המקצועי והגישה החמה שלנו.
 
 ### צור קשר
-https://-c8b2f97d.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם מרכז אוקסיג'ן נהריה לקבלת מידע על טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי. נשמח לעזור!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c8b2f97d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c8b2f97d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c8b2f97d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About מרכז אוקסיג'ן
-מרכז אוקסיג'ן is a business in the טיפול ובריאות נפש industry.
-
-## Target Audience
-הורים ומשפחות המחפשים הדרכה וטיפול רגשי
-
-## Industry
-טיפול ובריאות נפש
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-c8b2f97d.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-c8b2f97d.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

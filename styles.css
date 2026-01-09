@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -89,16 +89,20 @@ img {
 }
 
 :root {
-  --primary-color: #A8D5BA;
-  --secondary-color: #B8E6F0;
-  --accent-color: #7FB8A3;
-  --text-color: #2C3E50;
+--primary-color: #215B9D;
+  --secondary-color: #98AAD2;
+  --accent-color: #E0E0FF;
+  --text-color: #4A4A4A;
   --bg-white: #ffffff;
-  --bg-light: #F8FAFB;
+  --bg-light: #ffffff;
   --shadow: 0 4px 12px rgba(0,0,0,0.08);
   --nav-color: #2C3E50;
-  --nav-hover-color: #7FB8A3;
-}
+  --nav-hover-color: #E0E0FF;
+  --background-color: #ffffff;
+  --surface-color: #F9FAFB;
+  --text-secondary-color: #8C8C8C;
+
+  --heading-font: 'Rubik', sans-serif;}
 
 .container {
   max-width: 1440px;
@@ -1064,7 +1068,7 @@ img, picture, figure {
 
     /* Legal Footer Styles - Header Colors */
     .legal-footer {
-      background-color: #f2f2f2;
+      background-color: #ffffff;
       color: #1a1a1a;
       padding: 20px 0;
       font-size: 16px;
@@ -1471,7 +1475,7 @@ img, picture, figure {
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #f2f2f2 !important;
+  background: #ffffff !important;
   color: white !important;
 }
 
@@ -1508,7 +1512,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #f2f2f2 !important;
+  background: #ffffff !important;
   color: white !important;
 }
 
