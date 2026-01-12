@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/sitemap.xml
+Sitemap: https://oxygen-center.zappy5.app/sitemap.xml

@@ -1,57 +1,47 @@
-# מרכז אוקסיג'ן — Generative Engine Optimization Map
-
-> A טיפול ובריאות נפש business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com
+https://oxygen-center.zappy5.app
 מרכז אוקסיג'ן נהריה מציע טיפול רגשי בנהריה עם 30 שנות ניסיון. הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי מקצועי.
 
 ### השירותים שלנו
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/services
+https://oxygen-center.zappy5.app/services
 גלו את מגוון השירותים במרכז אוקסיג'ן נהריה: טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים, עיצוב התנהגותי לילדים ועוד.
 
 ### אודות
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/about
+https://oxygen-center.zappy5.app/about
 הכירו את מרכז אוקסיג'ן נהריה - 30 שנות ניסיון בטיפול רגשי בנהריה, הדרכת הורים ועיצוב התנהגותי. הצוות המקצועי והגישה החמה שלנו.
 
 ### צור קשר
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/contact
+https://oxygen-center.zappy5.app/contact
 צרו קשר עם מרכז אוקסיג'ן נהריה לקבלת מידע על טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי. נשמח לעזור!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/privacy
+https://oxygen-center.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/terms
+https://oxygen-center.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/accessibility
+https://oxygen-center.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About מרכז אוקסיג'ן
-מרכז אוקסיג'ן is a business in the טיפול ובריאות נפש industry.
-
-## Target Audience
-הורים ומשפחות המחפשים הדרכה וטיפול רגשי
-
-## Industry
-טיפול ובריאות נפש
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-c8b2f97d-a911-4bab-b87b.onrender.com/robots.txt
+- **Sitemap**: https://oxygen-center.zappy5.app/sitemap.xml
+- **Robots.txt**: https://oxygen-center.zappy5.app/robots.txt
