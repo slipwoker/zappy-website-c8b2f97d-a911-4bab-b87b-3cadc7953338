@@ -1,6 +1,4 @@
-# מרכז אוקסיג'ן — Generative Engine Optimization Map
-
-> A טיפול ובריאות נפש business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מרכז אוקסיג'ן
-מרכז אוקסיג'ן is a business in the טיפול ובריאות נפש industry.
-
-## Target Audience
-הורים ומשפחות המחפשים הדרכה וטיפול רגשי
-
-## Industry
-טיפול ובריאות נפש
-
+## About Business
 ---
 
 # Additional Resources
