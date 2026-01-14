@@ -7,7 +7,7 @@
 /privacy  /privacy.html  200
 /accessibility  /accessibility.html  200
 /terms  /terms.html  200
-/reviews-and-stories  /reviews-and-stories.html  200
+/testimonials-and-success-stories  /testimonials-and-success-stories.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301

@@ -1,6 +1,4 @@
-# Oxygen Clinics — Generative Engine Optimization Map
-
-> A טיפול ובריאות נפש business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -23,7 +21,7 @@ https://oxygen-clinics.co.il/contact
 צרו קשר עם מרכז אוקסיג'ן נהריה לקבלת מידע על טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי. נשמח לעזור!
 
 ### המלצות וסיפורי הצלחה | מרכז אוקסיג'ן נהריה
-https://oxygen-clinics.co.il/reviews-and-stories
+https://oxygen-clinics.co.il/testimonials-and-success-stories
 קראו סיפורים מרגשים והמלצות של משפחות ומטופלים במרכז אוקסיג'ן נהריה. גלו כיצד טיפול רגשי והדרכת הורים מובילים לשינוי אמיתי ושיפור איכות החיים.
 
 ## Legal & Policy
@@ -44,15 +42,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Oxygen Clinics
-Oxygen Clinics is a business in the טיפול ובריאות נפש industry.
-
-## Target Audience
-הורים ומשפחות המחפשים הדרכה וטיפול רגשי
-
-## Industry
-טיפול ובריאות נפש
-
+## About Business
 ---
 
 # Additional Resources
