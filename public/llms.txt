@@ -1,57 +1,51 @@
-# Oxygen Clinics — Generative Engine Optimization Map
-
-> A טיפול ובריאות נפש business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://oxygen-center.zappy5.app
+https://oxygen-clinics.co.il
 מרכז אוקסיג'ן נהריה מציע טיפול רגשי בנהריה עם 30 שנות ניסיון. הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי מקצועי.
 
 ### השירותים שלנו
-https://oxygen-center.zappy5.app/services
+https://oxygen-clinics.co.il/services
 גלו את מגוון השירותים במרכז אוקסיג'ן נהריה: טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים, עיצוב התנהגותי לילדים ועוד.
 
 ### אודות
-https://oxygen-center.zappy5.app/about
+https://oxygen-clinics.co.il/about
 הכירו את מרכז אוקסיג'ן נהריה - 30 שנות ניסיון בטיפול רגשי בנהריה, הדרכת הורים ועיצוב התנהגותי. הצוות המקצועי והגישה החמה שלנו.
 
 ### צור קשר
-https://oxygen-center.zappy5.app/contact
+https://oxygen-clinics.co.il/contact
 צרו קשר עם מרכז אוקסיג'ן נהריה לקבלת מידע על טיפול רגשי בנהריה, הדרכת הורים להתנהגות ילדים ועיצוב התנהגותי. נשמח לעזור!
+
+### המלצות וסיפורי הצלחה | מרכז אוקסיג'ן נהריה
+https://oxygen-clinics.co.il/reviews-and-stories
+קראו סיפורים מרגשים והמלצות של משפחות ומטופלים במרכז אוקסיג'ן נהריה. גלו כיצד טיפול רגשי והדרכת הורים מובילים לשינוי אמיתי ושיפור איכות החיים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://oxygen-center.zappy5.app/privacy
+https://oxygen-clinics.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://oxygen-center.zappy5.app/terms
+https://oxygen-clinics.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://oxygen-center.zappy5.app/accessibility
+https://oxygen-clinics.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Oxygen Clinics
-Oxygen Clinics is a business in the טיפול ובריאות נפש industry.
-
-## Target Audience
-הורים ומשפחות המחפשים הדרכה וטיפול רגשי
-
-## Industry
-טיפול ובריאות נפש
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://oxygen-center.zappy5.app/sitemap.xml
-- **Robots.txt**: https://oxygen-center.zappy5.app/robots.txt
+- **Sitemap**: https://oxygen-clinics.co.il/sitemap.xml
+- **Robots.txt**: https://oxygen-clinics.co.il/robots.txt
