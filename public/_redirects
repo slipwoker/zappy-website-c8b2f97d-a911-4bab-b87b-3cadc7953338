@@ -1,20 +1,22 @@
 # Clean URL redirects for Render static hosting
+# Generated: 2026-01-20T09:55:08.236Z
 # These rewrite rules show clean URLs to users while serving .html files
 
-/services  /services.html  200
-/about  /about.html  200
-/contact  /contact.html  200
-/privacy  /privacy.html  200
-/accessibility  /accessibility.html  200
-/terms  /terms.html  200
-/testimonials-and-success-stories  /testimonials-and-success-stories.html  200
+/services  /services.html  200!
+/about  /about.html  200!
+/contact  /contact.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+/testimonials-and-success-stories  /testimonials-and-success-stories.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
 /accessibility.html  /accessibility  301
 /terms.html  /terms  301
 
-/  /index.html  200
+/  /index.html  200!
 
-# 404 fallback
-/*  /index.html  404
+# SPA fallback - serve index.html for all unmatched routes
+# This enables client-side routing for /product/:slug, /checkout, etc.
+/*  /index.html  200
